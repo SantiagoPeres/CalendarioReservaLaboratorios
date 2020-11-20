@@ -43,7 +43,7 @@ Para testar esse projeto você irá precisar de:
 - [Knex.js](https://mongoosejs.com/) - Knex.js é um construtor de consultas SQL para Postgres projetado para ser flexível, portátil e divertido de usar.
 - [React](https://pt-br.reactjs.org/) - O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU).
 
-
+### Requisitos funcionais e não funcionais presentes no projeto
 <h1 align="center">
   <img alt="Requisitos funcionais" src="https://github.com/SantiagoPeres/CalendarioReservaLaboratorios/blob/main/.github/reqf1reqf2.png" />
 </h1>
