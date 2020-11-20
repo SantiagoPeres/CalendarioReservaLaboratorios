@@ -15,7 +15,7 @@ Para testar esse projeto você irá precisar de:
 1. [NodeJS](https://nodejs.org/en/)
    - Siga a documentação de instalação: https://nodejs.org/en/download/.
 
-### Instalação
+### :gear: Instalação
 
 1. Clone o repesitório onde desejar em seu computador;
 
@@ -32,7 +32,7 @@ Para testar esse projeto você irá precisar de:
    npm start
    ```
 
-### Tecnologias
+### :rocket: Tecnologias
 
 - [NodeJS](https://nodejs.org/en/) - O Node.js é um ambiente de execução Javascript server-side.
 - [ExpressJS](https://expressjs.com/pt-br/) - Express.js é um framework para aplicações web para Node.js.
