@@ -7,9 +7,6 @@ O usuário poderá fazer Login com a conta da universidade.
 Poderá se vincular a os laboratórios disponiveis.
 
 Será possível disponibilizar para o usuário a localização de cada laboratório no campus da universidade.
-# AEP
-
-Este projeto foi desenvolvido com o intuito de sanar o problema da faculade Uniceumar, no qual fomos solicitados à desenvolver o agendamento de seus laboratórios.
 
 ### Pré-requisitos
 
@@ -26,7 +23,7 @@ Para testar esse projeto você irá precisar de:
    ```
    cd backend
    npm install
-   npm run dev
+   npm start
    ```
 3. Inicie o client (http://localhost:3000). Na raiz do projeto abra seu interpretador de linha de comando (CMD, PowerShell, GitBash...), digite:
    ```
@@ -43,7 +40,8 @@ Para testar esse projeto você irá precisar de:
 - [Knex.js](https://mongoosejs.com/) - Knex.js é um construtor de consultas SQL para Postgres projetado para ser flexível, portátil e divertido de usar.
 - [React](https://pt-br.reactjs.org/) - O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU).
 
-### Requisitos funcionais e não funcionais presentes no projeto
+# Requisitos funcionais e não funcionais presentes no projeto
+
 <h1 align="center">
   <img alt="Requisitos funcionais" src="https://github.com/SantiagoPeres/CalendarioReservaLaboratorios/blob/main/.github/reqf1reqf2.png" />
 </h1>
@@ -62,31 +60,33 @@ Para testar esse projeto você irá precisar de:
 </h1>
 <a id="about"></a>
 
-## :information_source: About 
+## :information_source: About
 
 <strong> Reserva de laboratórios </strong> O reserva de laboratórios permite selecionar um horário e reserver o laboratório de uma universidade.
 
-
 ## :computer: Screenshots
+
 A carregar...
+
 <!--
 <h1 align="center">
   <img alt="Reserva Laboratorio" src="https://github.com/marlonchallouts/Ecoleta/blob/master/.github/app-screen.png" />
 </h1>
 -->
+
 ### OBS
 
-    Para os testes serem efetuados, criamos dois usuários:
-    ```
-    Username: usuarioteste;
-    Senha: asdqwe11;
-    ```
-    ```
-    Username: usuarioteste2;
-    Senha: asdqwe11;
-    ```
+1. Para os testes serem efetuados, criamos dois usuários:
 
-### Autor
+   ```
+   Username: usuarioteste;
+   Senha: asdqwe11;
+
+   Username: usuarioteste2;
+   Senha: asdqwe11;
+   ```
+
+### Autores
 
 - [Luan Picinin](https://github.com/LuanPicinin).
 - [Santiago Peres](https://github.com/SantiagoPeres).
