@@ -60,11 +60,11 @@ Para testar esse projeto você irá precisar de:
 </h1>
 <a id="about"></a>
 
-## :information_source: About
+## :information_source: Sobre
 
 <strong> Reserva de laboratórios </strong> O reserva de laboratórios permite selecionar um horário e reserver o laboratório de uma universidade.
 
-## :computer: Screenshots
+## :computer: Telas
 
 A carregar...
 
