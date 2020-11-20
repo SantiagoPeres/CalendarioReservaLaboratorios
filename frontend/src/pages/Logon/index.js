@@ -30,7 +30,7 @@ export default function Logon() {
       const { username, password } = data;
 
       if (!username || !password) {
-        setMessage('Por favor, preenchas os campos!');
+        setMessage('Por favor, preencha os campos!');
         setSnackbarOpen(true);
         return;
       }

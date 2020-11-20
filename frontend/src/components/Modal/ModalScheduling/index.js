@@ -74,7 +74,7 @@ export default function ModalScheduling({
       const { schoolClass, schoolSubject, hourly } = data;
 
       if (!schoolClass || !schoolSubject || !hourly) {
-        setMessage('Por favor, preenchas os campos!');
+        setMessage('Por favor, preencha os campos!');
         setSnackbarOpen(true);
         return;
       }
