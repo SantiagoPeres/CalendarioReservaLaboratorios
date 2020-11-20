@@ -8,7 +8,7 @@ Poderá se vincular a os laboratórios disponiveis.
 
 Será possível disponibilizar para o usuário a localização de cada laboratório no campus da universidade.
 
-### Pré-requisitos
+### :page_facing_up: Pré-requisitos
 
 Para testar esse projeto você irá precisar de:
 
